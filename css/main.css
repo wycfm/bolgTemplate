@@ -120,7 +120,15 @@ technology
 **/
 .blog-title-technology
 {
-	margin-top: 30px;
+  margin-top: 30px;
+  margin-bottom: 0;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.blog-title-life
+{
+  margin-top: 30px;
   margin-bottom: 0;
   font-size: 30px;
   font-weight: normal;
