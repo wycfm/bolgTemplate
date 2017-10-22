@@ -133,3 +133,34 @@ technology
   font-size: 30px;
   font-weight: normal;
 }
+
+
+.edit_row{
+	margin-top:10px;
+}
+
+.edit-add{
+	padding-bottom:30px;
+}
+
+.main-article
+{
+	height:1000px;
+}
+.user_function{
+	margin-top:10px;
+	margin-left:20px;
+}
+.bar-line-right{
+	height:100%;
+	border-right: 1px solid #e5e5e5;
+}
+
+.editor-container
+{	
+	width:970px;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
